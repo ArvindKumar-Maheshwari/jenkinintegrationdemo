@@ -16,7 +16,7 @@ public class JenkinintegrationdemoApplication {
 
     @GetMapping
     public static String hello() {
-        return "Sample application keep mind change ashutosh";
+        return "Sample application keep mind change ashutosh check";
     }
 
 }
